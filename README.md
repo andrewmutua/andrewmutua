@@ -17,102 +17,14 @@
 <a href="https://web.facebook.com/andrew.mutua.833798" target="_blank">
   <img src="https://img.shields.io/badge/FACEBOOK-16a34a?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
-<a href="mailto:andrewmutua@example.com">
-  <img src="https://img.shields.io/badge/EMAIL-4ade80?style=for-the-badge&logo=gmail&logoColor=0b0e14" alt="Email" />
-</a>
 
 </div>
 
-<br />
-
-<img src="./assets/divider.svg" width="100%" />
-
 ## 👋 Who I Am
 
-I'm **Andrew Mutua**, a **Software Engineer** and **Web Designer** based in Kenya. I build fast, accessible and visually clean web applications — from the first line of code to the final pixel.
-
-I focus on crafting products that feel effortless: thoughtful interfaces, solid architecture, and performance that respects the user. Whether it's a dashboard, a landing page, or a full-stack app, I care about the details that make software feel *right*.
+I'm **Andrew Mutua**, a **Software Engineer** and **Web Designer** based in Kenya. I build fast, accessible and visually clean web applications.
 
 - 🎯 **Focus:** Frontend engineering & full-stack web development
 - 🎨 **Also good at:** UI/UX design, responsive layouts, design systems
 - 🌍 **Location:** Kenya
 - 💬 **Ask me about:** React, TypeScript, Tailwind, Laravel, Node.js
-- 🚀 **Currently:** Building modern web experiences and open to collaboration
-
-<img src="./assets/divider.svg" width="100%" />
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-0b0e14?style=for-the-badge&logo=react&logoColor=4ade80)
-![TypeScript](https://img.shields.io/badge/TypeScript-0b0e14?style=for-the-badge&logo=typescript&logoColor=4ade80)
-![JavaScript](https://img.shields.io/badge/JavaScript-0b0e14?style=for-the-badge&logo=javascript&logoColor=4ade80)
-![Tailwind](https://img.shields.io/badge/Tailwind-0b0e14?style=for-the-badge&logo=tailwindcss&logoColor=4ade80)
-![Vite](https://img.shields.io/badge/Vite-0b0e14?style=for-the-badge&logo=vite&logoColor=4ade80)
-
-**Backend**
-
-![Laravel](https://img.shields.io/badge/Laravel-0b0e14?style=for-the-badge&logo=laravel&logoColor=4ade80)
-![Node.js](https://img.shields.io/badge/Node.js-0b0e14?style=for-the-badge&logo=nodedotjs&logoColor=4ade80)
-![PHP](https://img.shields.io/badge/PHP-0b0e14?style=for-the-badge&logo=php&logoColor=4ade80)
-![MySQL](https://img.shields.io/badge/MySQL-0b0e14?style=for-the-badge&logo=mysql&logoColor=4ade80)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-0b0e14?style=for-the-badge&logo=git&logoColor=4ade80)
-![GitHub](https://img.shields.io/badge/GitHub-0b0e14?style=for-the-badge&logo=github&logoColor=4ade80)
-![Figma](https://img.shields.io/badge/Figma-0b0e14?style=for-the-badge&logo=figma&logoColor=4ade80)
-![VS Code](https://img.shields.io/badge/VS_Code-0b0e14?style=for-the-badge&logo=visualstudiocode&logoColor=4ade80)
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" />
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Andrew-Mutua&show_icons=true&theme=dark&bg_color=0b0e14&title_color=4ade80&icon_color=22c55e&text_color=d1fae5&border_color=1f2937" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Mutua&layout=compact&theme=dark&bg_color=0b0e14&title_color=4ade80&text_color=d1fae5&border_color=1f2937" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrew-Mutua&theme=dark&background=0b0e14&ring=4ade80&fire=22c55e&currStreakLabel=4ade80&sideLabels=d1fae5&dates=86efac&border=1f2937" />
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" />
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always open to interesting projects, collaborations, and conversations about building great software.
-
-<a href="https://andrewmutua.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/andrewmutua.netlify.app-4ade80?style=for-the-badge&logo=googlechrome&logoColor=0b0e14" />
-</a>
-<a href="https://www.linkedin.com/in/andrew-mutua-657675350" target="_blank">
-  <img src="https://img.shields.io/badge/andrew--mutua--657675350-22c55e?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://web.facebook.com/andrew.mutua.833798" target="_blank">
-  <img src="https://img.shields.io/badge/andrew.mutua.833798-16a34a?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img src="./assets/divider.svg" width="100%" />
-
-<sub>Designed & built by <b>Andrew Mutua</b> — Kenya 🇰🇪</sub>
-
-</div>
