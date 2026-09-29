@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" fill="none">
+  <defs>
+    <linearGradient id="eduBg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#062e1a"/>
+      <stop offset="50%" stop-color="#064e2c"/>
+      <stop offset="100%" stop-color="#052e1a"/>
+    </linearGradient>
+
+    <linearGradient id="eduTitle" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4ade80"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+
+    <filter id="eduGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="eduDotGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="260" fill="url(#eduBg)"/>
+
+  <!-- Subtle circuit arcs on the right -->
+  <g opacity="0.15" stroke="#4ade80" fill="none" stroke-width="1">
+    <circle cx="1080" cy="130" r="40"/>
+    <circle cx="1080" cy="130" r="80"/>
+    <circle cx="1080" cy="130" r="120"/>
+    <line x1="1080" y1="130" x2="1250" y2="130"/>
+    <line x1="1080" y1="130" x2="1080" y2="290"/>
+    <line x1="1080" y1="130" x2="1230" y2="280"/>
+  </g>
+
+  <!-- Graduation cap icon (left) -->
+  <g transform="translate(60, 60)" stroke="#4ade80" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" filter="url(#eduGlow)">
+    <path d="M0 30 L60 0 L120 30 L60 60 Z"/>
+    <path d="M30 44 L30 80 Q60 100 90 80 L90 44"/>
+    <path d="M120 30 L120 70"/>
+    <circle cx="120" cy="74" r="4" fill="#4ade80"/>
+  </g>
+
+  <!-- Education heading -->
+  <text x="230" y="90" font-family="Inter, -apple-system, Segoe UI, Roboto, sans-serif"
+        font-size="40" font-weight="800" fill="url(#eduTitle)" letter-spacing="-0.5">
+    Education
+  </text>
+
+  <!-- University name -->
+  <text x="230" y="140" font-family="Inter, -apple-system, Segoe UI, Roboto, sans-serif"
+        font-size="24" font-weight="600" fill="#d1fae5">
+    Technical University of Mombasa (TUM)
+  </text>
+
+  <!-- Degree -->
+  <text x="230" y="176" font-family="Inter, -apple-system, Segoe UI, Roboto, sans-serif"
+        font-size="17" font-weight="500" fill="#86efac">
+    Bachelor of Science in Information Technology · Year 3
+  </text>
+
+  <!-- Status line -->
+  <text x="230" y="212" font-family="Inter, -apple-system, Segoe UI, Roboto, sans-serif"
+        font-size="14" font-weight="400" fill="#86efac" opacity="0.75">
+    Currently studying · Building real-world software alongside my studies
+  </text>
+
+  <!-- Animated line at bottom -->
+  <line x1="60" y1="240" x2="1140" y2="240" stroke="#4ade80" stroke-width="2"
+        stroke-opacity="0.3" stroke-dasharray="4 4"/>
+
+  <!-- Travelling dot -->
+  <circle r="6" fill="#4ade80" filter="url(#eduDotGlow)">
+    <animate attributeName="cx" values="60;1140;60" dur="7s" repeatCount="indefinite"
+             calcMode="spline"
+             keySplines="0.42 0 0.58 1; 0.42 0 0.58 1"
+             keyTimes="0; 0.5; 1"/>
+    <animate attributeName="cy" values="240;240;240" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle r="3" fill="#22c55e" opacity="0.5">
+    <animate attributeName="cx" values="60;1140;60" dur="7s" begin="0.15s" repeatCount="indefinite"
+             calcMode="spline"
+             keySplines="0.42 0 0.58 1; 0.42 0 0.58 1"
+             keyTimes="0; 0.5; 1"/>
+    <animate attributeName="cy" values="240;240;240" dur="7s" repeatCount="indefinite"/>
+  </circle>
+</svg>
