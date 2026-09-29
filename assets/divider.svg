@@ -2,14 +2,9 @@
   <defs>
     <linearGradient id="fade" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#4ade80" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#4ade80" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#4ade80" stop-opacity="0.7"/>
       <stop offset="100%" stop-color="#4ade80" stop-opacity="0"/>
     </linearGradient>
   </defs>
   <rect x="0" y="9" width="1200" height="2" fill="url(#fade)"/>
-  <circle r="4" fill="#4ade80">
-    <animate attributeName="cx" values="0;1200;0" dur="8s" repeatCount="indefinite"/>
-    <animate attributeName="cy" values="10;10;10" dur="8s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.9;0.4;0.9" dur="2s" repeatCount="indefinite"/>
-  </circle>
 </svg>
